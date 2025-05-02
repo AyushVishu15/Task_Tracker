@@ -16,10 +16,10 @@ A full-stack task tracking application built with ReactJS, ExpressJS, MongoDB, a
 - Docker (optional, for containerized deployment)
 
 ## Installation
-
-### Local Development
-
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/task-tracker.git
-cd task-tracker
+   ```bash
+   git clone https://github.com/your-username/task-tracker.git
+
+## ScreenShots
+
+
